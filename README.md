@@ -12,3 +12,9 @@ Its functionalities are:
  Screenshot:
  
 ![alt text](https://github.com/07Rochak/AndroidClubAssessment3/blob/master/assets/screenshot.jpeg?raw=true)
+
+Submitted by: 
+
+Name: Rochak Shrivastav
+
+Reg. No.: 20BCE1814
